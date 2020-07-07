@@ -8,3 +8,8 @@
 - [Lexar® DDR4-2666 UDIMM 16Gb (8GB * 2)](https://www.lexar.com/cn/portfolio_page/ddr4-2666-udimm-desktop-memory)
 - [Intel® SSD 760p 256 GB](https://ark.intel.com/content/www/us/en/ark/products/134583/intel-ssd-760p-series-256gb-m-2-80mm-pcie-3-0-x4-3d2-tlc.html)
 - BCM943602CS
+
+![](https://raw.githubusercontent.com/suxiaogang/GIGABYTE-B360H-d3h-i3-8100-Hackintosh/master/screenshot/1.jpg)
+![](https://raw.githubusercontent.com/suxiaogang/GIGABYTE-B360H-d3h-i3-8100-Hackintosh/master/screenshot/2.png)
+![](https://raw.githubusercontent.com/suxiaogang/GIGABYTE-B360H-d3h-i3-8100-Hackintosh/master/img/board.jpg)
+![](https://raw.githubusercontent.com/suxiaogang/GIGABYTE-B360H-d3h-i3-8100-Hackintosh/master/img/IO.png)
